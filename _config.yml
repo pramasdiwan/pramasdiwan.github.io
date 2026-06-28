@@ -1,6 +1,0 @@
-# Disable Jekyll processing — this is a static HTML site
-exclude:
-  - build/
-  - README.md
-  - "*.py"
-  - "*.zip"
